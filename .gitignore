@@ -1,0 +1,7 @@
+node_modules
+.idea
+*.iml
+*.lock
+*-lock.json
+.DS_Store
+*.log
