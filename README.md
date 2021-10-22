@@ -8,7 +8,7 @@ Since I use webpack externals to bundle, you must expose `Quill` to window objec
 
 # Installation
 ```
-npm install @unzld/quill-better-table-picker
+npm install quill-better-table-picker
 ```
 
 # Usage
