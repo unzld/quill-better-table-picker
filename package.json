@@ -1,6 +1,6 @@
 {
   "name": "quill-better-table-picker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Better table module for Quill with support for grid-style table picker",
   "main": "dist/quill-better-table-picker.js",
   "scripts": {
